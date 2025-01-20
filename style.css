@@ -1,0 +1,38 @@
+.center-a-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #F6EEE0;
+}
+.cat-image{
+    background-color: #f6eee0;
+    height: 40vh;
+    width: 50vh;
+    border-top-left-radius: 20px;
+    
+
+}
+.cat-quote{
+    background-color: #e4b7a0;
+    height:10vh;
+    width:50vh;
+    border-bottom-left-radius: 20px;
+   font-style: italic;
+
+}
+
+.cat-frame{
+    background-color: #a45c40;
+    height:50vh;
+    width:60vh;
+    border-radius: 20px; 
+    
+}
+.flex-row-reload{
+    display: flex;
+    flex-direction: row ;
+    margin: 1vh;
+}
+
